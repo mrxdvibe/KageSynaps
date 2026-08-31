@@ -23,17 +23,6 @@
 
 ## Architecture
 
-\`\`\`
-KageSynaps/
-├── cmd/
-│   └── kage-node/        # Main node execution binary
-├── pkg/
-│   ├── blue/             # Defensive telemetry & inspection engine
-│   ├── channel/          # Malleable transport & encryption mechanisms
-│   └── red/              # Offensive beaconing & payload execution logic
-└── go.mod                # Module dependencies
-\`\`\`
-
 ## Installation & Usage
 
 ### Prerequisites
