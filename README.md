@@ -21,8 +21,6 @@
 * **Malleable Channels:** Encrypted and obfuscated communication layers for secure transport.
 * **Zero-Hardcode Architecture:** Fully configurable runtime execution via flags and command-line interfaces.
 
-## Architecture
-
 ## Installation & Usage
 
 ### Prerequisites
