@@ -32,9 +32,8 @@
 1. **Clone the repository:**
    git clone https://github.com/your-username/KageSynaps.git
    
-   and write cd KageSynaps
+   cd KageSynaps
    
-
 3. **Run the Node:**
    go run cmd/kage-node/main.go -host 127.0.0.1 -port 9090
 
