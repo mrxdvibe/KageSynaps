@@ -32,7 +32,7 @@
 1. **Clone the repository:**
    git clone https://github.com/your-username/KageSynaps.git
    
-   cd KageSynaps
+   and write cd KageSynaps
    
 
 3. **Run the Node:**
