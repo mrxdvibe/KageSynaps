@@ -31,13 +31,14 @@
 
 1. **Clone the repository:**
    git clone https://github.com/your-username/KageSynaps.git
+   
    cd KageSynaps
    
 
-2. **Run the Node:**
+3. **Run the Node:**
    go run cmd/kage-node/main.go -host 127.0.0.1 -port 9090
 
-3. **Global Port Forwarding (Optional):**
+4. **Global Port Forwarding (Optional):**
    If testing over public infrastructure, use any tunnel service such as `bore` or `ngrok`:
    bore local 9090 --to bore.pub
    go run cmd/kage-node/main.go -host bore.pub -port <ASSIGNED_PORT>
