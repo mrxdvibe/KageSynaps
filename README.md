@@ -30,22 +30,17 @@
 ### Quick Start
 
 1. **Clone the repository:**
-   \`\`\`bash
    git clone https://github.com/your-username/KageSynaps.git
    cd KageSynaps
-   \`\`\`
+   
 
 2. **Run the Node:**
-   \`\`\`bash
    go run cmd/kage-node/main.go -host 127.0.0.1 -port 9090
-   \`\`\`
 
 3. **Global Port Forwarding (Optional):**
    If testing over public infrastructure, use any tunnel service such as `bore` or `ngrok`:
-   \`\`\`bash
    bore local 9090 --to bore.pub
    go run cmd/kage-node/main.go -host bore.pub -port <ASSIGNED_PORT>
-   \`\`\`
 
 ## Disclaimer
 
