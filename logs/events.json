@@ -1,0 +1,1 @@
+{"timestamp":"2026-08-31T17:18:08+03:00","node_id":"KS-NODE-ALPHA","payload":"[17:18:08] Process Access / Injection Attempt on PID 1337 via [Kerberoasting_Simulation] | Severity: HIGH | Technique: T1055 (Process Injection)"}
